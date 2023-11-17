@@ -1,5 +1,7 @@
-<img align="center" style="margin-bottom:100px" width=100%
-    src="https://github.com/eduardahey/eduardahey/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Eduarda+Cavalcante;I'm+18+years+old;I'm+from+Brazil;I'm+a+full+stack+web+developer;Be+Welcome!+S2)](https://git.io/typing-svg)
+
+
+
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Em um <strong>relacionamento sério</strong>  com <strong>JavaScript</strong>. 💻❤️<br>In a  <strong>serious relationship</strong>with <strong >JavaScript</strong>. 💻❤️ <br><br> 
@@ -32,7 +34,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 #### Secondary Stack:
-
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Saleforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)&nbsp;
 #### Studying in this moment:
