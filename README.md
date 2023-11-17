@@ -1,6 +1,6 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Eduarda+Cavalcante;Tenho+18+anos;Sou+do+Brasil;Sou+desenvolvedora+web+full+stack+;Bem+Vindo!+S2)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=20&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Eduarda+Cavalcante;I'm+18+years+old;I'm+from+Brazil;I'm+a+full+stack+developer;Be+Welcome!+S2)](https://git.io/typing-svg)
-
 
 
 &nbsp;&nbsp;&nbsp;
