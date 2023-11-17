@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Em um <strong>relacionamento sério</strong>  com <strong>JavaScript</strong>. 💻❤️<br>In a  <strong>serious relationship</strong>with <strong >JavaScript</strong>. 💻❤️ <br><br> 
+<p align="center"><strong>JavaScript Lover</strong>. 💻❤️ <br><br> 
     Amante de desafios, <strong>desenvolvedora web full stack júnior</strong>, apaixonada por <strong>transformar ideias em código.</strong><br>
     Lover of challenges, <strong>junior full stack web developer</strong>, passionate about <strong>transforming ideas into code.</strong>
 </p>
