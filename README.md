@@ -76,6 +76,4 @@
             target="_blank"></a> -->
 </div>&nbsp;&nbsp;
 
-![Snake animation](https://github.com/eduardahey/eduardahey/blob/output/github-contribution-grid-snake.svg)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer" />
