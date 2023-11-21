@@ -5,10 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>JavaScript Lover</strong>. 💻❤️ <br><br> 
-    Amante de desafios, <strong>desenvolvedora web full stack júnior</strong>, apaixonada por <strong>transformar ideias em código.</strong><br>
-    Lover of challenges, <strong>junior full stack web developer</strong>, passionate about <strong>transforming ideas into code.</strong>
-</p>
+<p align="center"><strong>JavaScript Lover</strong>. 💻❤️ <br><br> </p>
 &nbsp;
 
 <div align="center" style="margin-bottom:100px">
