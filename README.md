@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>JavaScript Lover</strong>. 💻❤️ <br><br> </p>
+<p align="center">💻❤️<br> </p>
 &nbsp;
 
 <div align="center" style="margin-bottom:100px">
